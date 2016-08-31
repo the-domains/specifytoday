@@ -1,0 +1,14 @@
+layout_spectrum: 0.7865101327188313
+typography_spectrum: 0.8465861927252263
+color:
+  brandStrength: 0.9253270640037954
+  lightness: 0.8153608138673007
+  saturation: 0.0762492143549025
+  rhythmicContrast: 0.9788069622591138
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: specify.today.
