@@ -1,3 +1,4 @@
+layout_spectrum: 0.7865101327188313
 typography_spectrum: 0.8465861927252263
 color:
   brandStrength: 0.9253270640037954
@@ -10,9 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.7865101327188313
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b587a25-7544-4fd6-811d-8e3f58d05e6f.png
 name: specify.today.
-title: CharlieMikeDeltaSierra
-description: specify.today
